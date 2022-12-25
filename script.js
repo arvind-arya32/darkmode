@@ -1,4 +1,4 @@
-let = icon = document.getElementById("icon"); 
+let icon = document.getElementById("icon"); 
 
 if(localStorage.getItem("theme") == null){
     localStorage.setItem("theme", "light")
